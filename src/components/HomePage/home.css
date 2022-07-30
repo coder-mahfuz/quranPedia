@@ -1,0 +1,51 @@
+.index_flowItem__GnXWz {
+  width: 80%;
+  margin: auto;
+}
+
+.Tabs_container__l5DHu {
+  display: flex;
+  border-bottom: 1px solid #ebeef0;
+}
+
+.ChapterAndJuzList_sorter__EiaST {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+
+.Tabs_tabItem__b_JVR {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.ChapterAndJuzList_tabsContainer__3Nm7e {
+  padding-bottom: 15px;
+}
+
+.ChapterAndJuzList_surahLayout__ZZ82j {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  gap: 10px;
+  width: 100%;
+  flex-direction: column;
+}
+
+.ChapterAndJuzList_chapterContainer__uVZ3E {
+  background-color: white;
+  border-radius: 8px;
+}
+
+.SurahPreviewRow_container__3ZfRV {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ebeef0;
+  padding-block-start: 20px;
+  padding-block-end: 20px;
+  padding-inline-start: 20px;
+  padding-inline-end: 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
