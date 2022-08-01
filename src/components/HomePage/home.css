@@ -1,14 +1,14 @@
-.index_flowItem__GnXWz {
+.container {
   width: 80%;
   margin: auto;
 }
 
-.Tabs_container__l5DHu {
+.Tabs_container {
   display: flex;
   border-bottom: 1px solid #ebeef0;
 }
 
-.ChapterAndJuzList_sorter__EiaST {
+.ChapterAndJuzList_sorter {
   display: flex;
   justify-content: flex-end;
   align-items: baseline;
@@ -19,11 +19,11 @@
   padding: 10px;
 }
 
-.ChapterAndJuzList_tabsContainer__3Nm7e {
+.ch_juz_tabs_container {
   padding-bottom: 15px;
 }
 
-.ChapterAndJuzList_surahLayout__ZZ82j {
+.ch_juz_list_container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
@@ -32,12 +32,12 @@
   flex-direction: column;
 }
 
-.ChapterAndJuzList_chapterContainer__uVZ3E {
+.ch_juz_list_chapter_container {
   background-color: white;
   border-radius: 8px;
 }
 
-.SurahPreviewRow_container__3ZfRV {
+.SurahPreviewRow_container {
   display: flex;
   justify-content: space-between;
   align-items: center;
